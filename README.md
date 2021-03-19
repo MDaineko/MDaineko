@@ -1,9 +1,11 @@
 # Hi 👋
 ## My name is **Matvey Daineko**.
-## I'm a beginner *Front-end developer* from Gomel/
+## I'm a beginner *Front-end developer* from Gomel.
 ### Languages and Technologoies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+### 🌱 I’m currently learning:
+![HTML](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=js)
 ### ✉ Mail me: 
 ### 🌐 Telegram: m_daineko
 ### 🌐 Instagram: _._mot_._
