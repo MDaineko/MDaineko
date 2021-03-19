@@ -6,9 +6,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### 🌱 I’m currently learning:
 ![HTML](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)
-### ✉ Mail me: 
+### ✉ Mail me: matveydaineko@gmail.com
 ### 🌐 Telegram: m_daineko
-### 🌐 Instagram: _._mot_._
+### 🌐 Instagram: __._mot_.__
 
 <!--
 **MDaineko/MDaineko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
