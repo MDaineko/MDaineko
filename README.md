@@ -3,7 +3,7 @@
 ## I'm a beginner *Front-end developer* from Gomel/
 ### Languages and Technologoies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
 <!--
 **MDaineko/MDaineko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
