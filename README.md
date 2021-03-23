@@ -1,5 +1,5 @@
 # Hi 👋
-## My name is **Matvey Daineko**.
+## My name is __Matvey Daineko__.
 ## I'm a beginner *Front-end developer* from Gomel.
 ### Languages and Technologoies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
