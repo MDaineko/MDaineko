@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)
 ### ✉ Mail me: matveydaineko@gmail.com
 ### 🌐 Telegram: m_daineko
-### 🌐 Instagram: __._mot_.__
+### 🌐 Instagram: "_"."_"mot"_"."_"
 
 <!--
 **MDaineko/MDaineko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
