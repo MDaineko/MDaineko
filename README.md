@@ -7,7 +7,7 @@
 ### 🌱 I’m currently learning:
 ![HTML](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)
 ### ✉ Mail me: matveydaineko@gmail.com
-### 🌐 Telegram: m_daineko
+### 🌐 Telegram: @griuch
 ### 🌐 Instagram: \_\.\_mot\_\.\_
 
 <!--
